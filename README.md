@@ -10,6 +10,9 @@ Codes used to train and test the models are available under `Models` folder. Tra
 
 ![image](https://user-images.githubusercontent.com/66868163/129752327-1932b0eb-bda7-4c04-9c5f-26b303fb0d23.png)
 
+<img src="https://user-images.githubusercontent.com/66868163/129752327-1932b0eb-bda7-4c04-9c5f-26b303fb0d23.png">
+
+Then
 
 
 
