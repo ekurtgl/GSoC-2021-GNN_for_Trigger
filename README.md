@@ -6,6 +6,10 @@ The Compact Muon Solenoid (CMS) is a detector at the Large Hadron Collider (LHC)
 
 ** Models
 
-Codes used to train and test the models are available under `Models` folder. Training results for FCNN and CNN models can be found in `GSoC v6.ipynb`.
+Codes used to train and test the models are available under `Models` folder. Training results for FCNN and CNN models can be found in `GSoC v5.ipynb` and `GSoC v6.ipynb`. The difference between two scripts is the generation of 2D images for the CNN model. In the former, Phi angle, Theta angle and Front/Rear hit features are used to locate exact locations of the hits in 4 detectors as follows:
+
+![image](https://user-images.githubusercontent.com/66868163/129752327-1932b0eb-bda7-4c04-9c5f-26b303fb0d23.png)
+
+
 
 
