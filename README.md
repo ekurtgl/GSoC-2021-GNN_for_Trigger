@@ -18,3 +18,8 @@ Since a great part of the images are empty, they introduce redundancy in the fea
 
 ![image](https://user-images.githubusercontent.com/66868163/129753693-1d1e6a3d-0358-4b7b-a2b6-f22c9ef3be33.png)
 
+In the latter, on the other hand, we use all the features (Phi Angle, Theta Angle, Front/Rear Hit, Bending Angle, Time, Mask, Ring Number) to generate 2D images as follows:
+
+![image](https://user-images.githubusercontent.com/66868163/129754653-7524b185-c406-4e52-8b24-84ba047ce5a6.png)
+
+Although these images are not as intuitive as in the previous method, they contain much more information due to larger feature space. 
