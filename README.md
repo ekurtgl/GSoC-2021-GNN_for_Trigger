@@ -22,4 +22,4 @@ In the latter, on the other hand, we use all the features (Phi Angle, Theta Angl
 
 ![image](https://user-images.githubusercontent.com/66868163/129754653-7524b185-c406-4e52-8b24-84ba047ce5a6.png)
 
-Although these images are not as intuitive as in the previous method, they contain much more information due to larger feature space. 
+Although these images are not as intuitive as in the previous method, they contain much more information due to larger feature space. In the former method while we obtained losses of *0.025* and *2.0125e-04* for pT and 1/pT prediction, respectively, in the latter one, we achieved losses of *0.01* and *7.3357e-05*.
