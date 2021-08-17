@@ -10,9 +10,11 @@ Codes used to train and test the models are available under `Models` folder. Tra
 
 ![image](https://user-images.githubusercontent.com/66868163/129752327-1932b0eb-bda7-4c04-9c5f-26b303fb0d23.png)
 
-<img src="https://user-images.githubusercontent.com/66868163/129752327-1932b0eb-bda7-4c04-9c5f-26b303fb0d23.png">
+Then, linear interpolation is utilized to obtain the complete trajectory of the muons as below:
 
-Then
+![image](https://user-images.githubusercontent.com/66868163/129753031-08faa3c3-8ac5-48a9-8a5e-316a4bada7b4.png)
 
+Since a great part of the images are empty, they introduce redundancy in the feature space. To eliminate this problem, we crop the generated images while keeping the whole trajectory within the bounds as follows:
 
+![image](https://user-images.githubusercontent.com/66868163/129753693-1d1e6a3d-0358-4b7b-a2b6-f22c9ef3be33.png)
 
