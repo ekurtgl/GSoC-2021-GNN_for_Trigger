@@ -28,4 +28,4 @@ Codes for different GNN models are also presented under `Models`, and complete c
 
 The dataset used in this work is also available [here](https://www.kaggle.com/ekurtoglu/cms-dataset).
 
-Should you have any questions, please contact me: [mailto](mailto:ekurtoglu@crimson.ua.edu)
+Should you have any questions, please contact me: [ekurtoglu@crimson.ua.edu](mailto:ekurtoglu@crimson.ua.edu)
