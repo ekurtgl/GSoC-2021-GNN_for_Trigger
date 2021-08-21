@@ -26,6 +26,4 @@ Although these images are not as intuitive as in the previous method, they conta
 
 Codes for different GNN models are also presented under `Models`, and complete comparison of the created models with various metrics (i.e. mean absolute error, accuracy and F-1 score) are available in `Compare Models Predictions.ipynb`. `results` folder contains the predictions (*.csv files*) for the testing dataset used to benchmark the models. An intuitive comparison of the GNN models and their performances are available in [this blog post](https://medium.com/@emre.kurt.96/gsoc-2021-graph-neural-networks-for-particle-momentum-estimation-in-the-cms-trigger-system-2216e4e4d005).
 
-The dataset used in this work is also available [here](https://www.kaggle.com/ekurtoglu/cms-dataset).
-
 Should you have any questions, please contact me at [ekurtoglu@crimson.ua.edu](mailto:ekurtoglu@crimson.ua.edu)
